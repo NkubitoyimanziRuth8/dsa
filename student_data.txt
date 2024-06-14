@@ -1,0 +1,33 @@
+Name: Ruth
+Age: 1000
+Address: Ruhango
+Courses:
+ - MATH
+ - KINY
+ - FOP
+
+Name: Ruth
+Age: 54
+Address: Ruhango
+Courses:
+ - MATH
+
+Name: Ruth
+Age: 87
+Address: ruhango
+Courses:
+ - MATH
+
+Name: Ruth
+Age: 8877
+Address: RUHANGO
+Courses:
+ - MATH
+
+Name: aline
+Age: 87
+Address: dhhdjhf
+Courses:
+ - MATH
+ - KINY
+
